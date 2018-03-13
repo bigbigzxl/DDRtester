@@ -2,12 +2,14 @@
 1site
 
 ================================================================
-基于http://git.oschina.net/jakey.chen的串口工具进行的二次开发。
+
+基于[jakey.chen](http://git.oschina.net/jakey.chen)的串口工具进行的二次开发。
 
 加入验证pattern，并于下位机进行通信的部分。
+
 ![](https://upload-images.jianshu.io/upload_images/4749583-fc2b780940c2b783.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-Serial Tool
+## Serial Tool
 ================================================================
 用python2.7、Tkinter、pyserial(使用版本3.3测试OK)模块开发的串口调试工具<br>
 
@@ -17,7 +19,7 @@ Serial Tool
 使用python3稍作修改版本
 * [py3版本](https://gitee.com/jakey.chen/Serial-Tool/tree/py3/)
 
-安装使用
+## 安装使用
 ================================================================
 需要安装的模块：<br>
 在Windows下:<br>
@@ -40,7 +42,7 @@ Serial Tool
 
 ![](http://git.oschina.net/jakey.chen/Serial-Tool/raw/master/Images/serial_tool.png)
 
-使用技巧
+## 使用技巧
 ================================================================
 在左侧列表框，可以显示出当前连接的串口设备。<br>
 可以通过双击打开设备（或者点击下面的Open打开设备）<br>
